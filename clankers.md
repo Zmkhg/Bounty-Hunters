@@ -3,7 +3,6 @@
 Automated tracking of all Clankers PR contributors.
 
 | Username | Total PRs | First PR |
-|----------|-----------|----------|
 | weilixiong | 32 | 2026-05-13 |
 | jynbil1 | 31 | 2026-05-13 |
 | Sasidhar-Sunkesula | 27 | 2026-05-13 |
@@ -44,6 +43,8 @@ Automated tracking of all Clankers PR contributors.
 | SimplyRayYZL | 1 | 2026-05-13 |
 | SimoneMariaRomeo | 1 | 2026-05-13 |
 | SeanNg93 | 1 | 2026-05-13 |
+| Mermaid-Man | 1 | 2026-05-13 |
 | LittleK-513 | 1 | 2026-05-13 |
 | KentoYoung | 1 | 2026-05-13 |
 | 694410194 | 1 | 2026-05-13 |
+|----------|-----------|----------|
