@@ -234,6 +234,12 @@
     "last_pr": "2026-05-13T00:00:00.000Z"
   },
   {
+    "username": "CHIFFONPIZZA",
+    "total_prs": 2,
+    "first_pr": "2026-05-14T05:22:07.844Z",
+    "last_pr": "2026-05-14T05:22:21.773Z"
+  },
+  {
     "username": "woairenzhi",
     "total_prs": 1,
     "first_pr": "2026-05-13T00:00:00.000Z",
@@ -418,11 +424,5 @@
     "total_prs": 1,
     "first_pr": "2026-05-14T05:18:39.538Z",
     "last_pr": "2026-05-14T05:18:39.538Z"
-  },
-  {
-    "username": "CHIFFONPIZZA",
-    "total_prs": 1,
-    "first_pr": "2026-05-14T05:22:07.844Z",
-    "last_pr": "2026-05-14T05:22:07.844Z"
   }
 ]
