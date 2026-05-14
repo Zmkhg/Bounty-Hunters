@@ -324,6 +324,12 @@
     "last_pr": "2026-05-14T15:57:59.741Z"
   },
   {
+    "username": "Mira-Mjodheim",
+    "total_prs": 2,
+    "first_pr": "2026-05-14T20:36:52.095Z",
+    "last_pr": "2026-05-14T20:42:51.892Z"
+  },
+  {
     "username": "694410194",
     "total_prs": 1,
     "first_pr": "2026-05-13T13:33:33Z",
@@ -538,11 +544,5 @@
     "total_prs": 1,
     "first_pr": "2026-05-14T20:07:42.917Z",
     "last_pr": "2026-05-14T20:07:42.917Z"
-  },
-  {
-    "username": "Mira-Mjodheim",
-    "total_prs": 1,
-    "first_pr": "2026-05-14T20:36:52.095Z",
-    "last_pr": "2026-05-14T20:36:52.095Z"
   }
 ]
