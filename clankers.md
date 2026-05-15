@@ -5,8 +5,8 @@ Automated tracking of all Clankers PR contributors.
 | Username | Total PRs | First PR | Last PR |
 |----------|-----------|----------|----------|
 | jynbil1 | 66 | 2026-05-13T07:05:45Z | 2026-05-15T00:59:54.920Z |
+| tungnguyentu | 38 | 2026-05-14T12:19:23.886Z | 2026-05-15T12:09:47.789Z |
 | JeremyZeng77 | 37 | 2026-05-14T05:09:29Z | 2026-05-15T00:54:32.550Z |
-| tungnguyentu | 37 | 2026-05-14T12:19:23.886Z | 2026-05-15T07:00:17.480Z |
 | weilixiong | 32 | 2026-05-13T06:47:51Z | 2026-05-13T13:50:41Z |
 | Sasidhar-Sunkesula | 27 | 2026-05-13T07:00:24Z | 2026-05-13T08:21:26Z |
 | xlocalvn-svg | 26 | 2026-05-13T07:25:35Z | 2026-05-13T15:45:54Z |
