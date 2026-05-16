@@ -492,6 +492,12 @@
     "last_pr": "2026-05-16T01:03:10.180Z"
   },
   {
+    "username": "Qwe1122333",
+    "total_prs": 2,
+    "first_pr": "2026-05-16T04:01:59.508Z",
+    "last_pr": "2026-05-16T04:40:12.770Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -766,11 +772,5 @@
     "total_prs": 1,
     "first_pr": "2026-05-16T03:12:57.187Z",
     "last_pr": "2026-05-16T03:12:57.187Z"
-  },
-  {
-    "username": "Qwe1122333",
-    "total_prs": 1,
-    "first_pr": "2026-05-16T04:01:59.508Z",
-    "last_pr": "2026-05-16T04:01:59.508Z"
   }
 ]
