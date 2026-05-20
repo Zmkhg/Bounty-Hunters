@@ -732,6 +732,12 @@
     "last_pr": "2026-05-19T21:40:28.346Z"
   },
   {
+    "username": "Reckbeg",
+    "total_prs": 2,
+    "first_pr": "2026-05-20T01:38:20.476Z",
+    "last_pr": "2026-05-20T01:38:55.234Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -1048,11 +1054,5 @@
     "total_prs": 1,
     "first_pr": "2026-05-19T17:55:44.991Z",
     "last_pr": "2026-05-19T17:55:44.991Z"
-  },
-  {
-    "username": "Reckbeg",
-    "total_prs": 1,
-    "first_pr": "2026-05-20T01:38:20.476Z",
-    "last_pr": "2026-05-20T01:38:20.476Z"
   }
 ]
