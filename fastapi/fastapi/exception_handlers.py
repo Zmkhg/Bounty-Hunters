@@ -27,7 +27,7 @@ def _redact_sensitive_fields(data: Any) -> Any:
     return data
 
 
-def _safe_get_body(request: Request, debug: bool) -> Any | None:
+async def _safe_get_body(request: Request, debug: bool) -> Any | None:
     """Attempt to read and redact the request body, returning None if unavailable."""
     if not debug:
         return None
@@ -39,12 +39,7 @@ def _safe_get_body(request: Request, debug: bool) -> Any | None:
         parsed = json.loads(body_text)
         return _redact_sensitive_fields(parsed)
     except (json.JSONDecodeError, UnicodeDecodeError):
-        # Non-JSON body — return as redacted string to avoid leaking raw secrets
-        raw = body_bytes.decode("utf-8", errors="replace")
-        sanitized = raw
-        for field in SENSITIVE_FIELD_NAMES:
-            sanitized = sanitized.replace(field, REDACTED_VALUE)
-        return REDACTED_VALUE if len(sanitized) > 500 else sanitized
+        return REDACTED_VALUE
     except Exception:
         return None
 
